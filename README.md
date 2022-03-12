@@ -11,8 +11,8 @@ I love foreign languages, their history, their comparisons, and diving in the ph
 
 ### YouTube
 
-* [LangFocus]() 
-* [NativLang]()
+* [LangFocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) Paul Jorgensen's channel features a rich set of videos about languages, comparisons a and history tidbuts 
+* [NativLang](https://www.youtube.com/user/NativLang) is also rich in content about languages; it leans also sometimes a bit towards more pecualiar and technical stuff and has very interesting language history videos
 
 ### Reddit
 
@@ -24,6 +24,7 @@ I love foreign languages, their history, their comparisons, and diving in the ph
 * [Smarter every day]()
 * [Numberphile]()
 * [3Blue1BRown]()
-* [Two Minutes Paper]()
+* [Two Minutes Papers]()
+* [Reducible]()
 
 ## Music
