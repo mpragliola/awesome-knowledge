@@ -5,6 +5,31 @@ It is not meant to be an exhaustive list for the public, but just a list of what
 
 ## Coding
 
+### Simple code sharing
+
+* PasteBin
+
+### Fast prototyping & Playgrounds
+
+Some tools to test things and ideas on the fly
+
+* **Frontend/HTML/JS/CSS**:
+    * [CodePen](https://codepen.io/)
+    * [JsBin](https://jsbin.com/)
+    * [JsFiddle](https://jsfiddle.net/)
+* **PHP**
+    * [Teh Playground!](https://www.tehplayground.com/)
+* **DB/SQL**
+    * [SQLFiddle](http://sqlfiddle.com/)
+* **Go**
+    * [The Go Playground](https://go.dev/play/) - official playground
+      provided by the Go developers
+* **Regular expressions**
+    * [Regex101](https://regex101.com/) - awesome regular expression tool
+      with tons of options, automatic breakdown of the regexps, and a lot
+      of different flavors (JS, PHP, Go, .NET, ...). Includes also code
+      generation!
+
 ## Linguistics, languages, phonetics, ...
 
 I love foreign languages, their history, their comparisons, and diving in the phonetics which in a sense is the music of speaking.
